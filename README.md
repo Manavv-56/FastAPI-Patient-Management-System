@@ -139,3 +139,11 @@ Each patient record contains:
 - `weight` (float): Weight in kilograms (> 0)
 
 The API automatically calculates BMI and health verdict based on height and weight.
+
+## Demo
+
+
+# FASTAPI Docs
+<img width="1420" height="739" alt="Screenshot 2025-09-16 at 23 22 53" src="https://github.com/user-attachments/assets/eee94a80-15b2-4768-ae73-bfc8a940ac6e" />
+
+
