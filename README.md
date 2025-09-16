@@ -1,4 +1,4 @@
-**Patient Management System (FastAPI)**
+## Patient Management System (FastAPI)
 
 This is a complete Patient Management API built with FastAPI that serves
 patient data from a local JSON file (`patients.json`). The project includes
